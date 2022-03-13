@@ -45,7 +45,7 @@ class _FarmersPageState extends State<FarmersPage>{
           Container(
             width:double.infinity,
             child:FlatButton(
-                child:Text("Enter product name and phone number"),
+                child:Text("Enter product name your name and phone number so buyer can contact you"),
                 color:Colors.red,
                 onPressed:(){
                   setState(() {
